@@ -1,0 +1,86 @@
+body {
+    background-color: honeydew;
+}
+header {
+    background-color: #0f45da9c;
+    text-align: center;
+}
+
+nav {
+    font-size: 140%;
+}
+
+.navlinks {
+    font-weight: bold;
+}
+
+.link {
+    color: white;
+}
+.mainheading {
+    color: blue;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    font-size: 230%;
+    font-weight: 1000;
+}
+
+.foodheading {
+    background-color: rgb(240, 27, 27);
+    color: white;
+    text-align: center;
+}
+
+.food {
+    background-color: rgb(255, 118, 118);
+    line-height: 175%;
+    font-size: 120% ;
+}
+
+.achievements {
+    background-color: rgb(148, 219, 243);
+    line-height: 150%;
+    font-size: 120%;
+}
+
+.achievementheading {
+    text-align: center;
+    background-color: rgb(22, 22, 173);
+    color: white;
+}
+
+.about {
+    background-color: rgb(247, 255, 137);
+    font-size: 120%;
+}
+
+.childhood {
+    font-size: 120%;
+}
+
+.detailpara{
+    font-size: 100%;
+    line-height: 150%;
+    font-style: italic;
+}
+
+.aboutheading {
+    text-align: center;
+    line-height: 150%;
+    background-color: rgb(166, 179, 54);
+    color: white;
+}
+
+.footerpara {
+    font-size: 120%;
+    font-style: italic;
+}
+
+
+.alaska {
+    font-style: italic;
+}
+
+.footerlink {
+    color: rgb(0, 155, 52);
+}
